@@ -162,6 +162,6 @@ for wc_product_id in product_ids:
     cj_response = response.text
 
 # Handle the CustoJusto.pt API response
-#if "Já existe um anúncio com esse ID Externo" not in cj_response:
+if "Já existe um anúncio com esse ID Externo" not in cj_response:
     print("CustoJusto.pt API Response:")
     print(cj_response)

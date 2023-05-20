@@ -1,0 +1,1077 @@
+Retrieving data from WooCommerce...
+[2082, 2097, 2103, 2110, 2116, 2122, 2141, 2149, 2156, 2160, 2167, 2178, 2184, 2189, 2195, 2210, 2231, 2235, 2239, 2244, 2248, 2252, 2297, 2333, 2347, 2356, 2375, 2395, 2423, 2441, 2476, 2477, 2478, 2479, 2480, 2481, 2560, 2561, 2562, 2563, 2564, 2565, 2566, 2567, 2568, 2569, 2570, 2571, 2572, 2573, 2574, 2575, 2576, 2577, 2578, 2579, 2580, 2581, 2582, 2583, 2584, 2585, 2586, 2587, 2588, 2589, 2590, 2591, 2592, 2593, 2594, 2595, 2596, 2597, 2598, 2599, 2600, 2601, 2602, 2603, 2604, 2605, 2606, 2607, 2608, 2609, 2610, 2611, 2612, 2613, 2614, 2615, 2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627, 2629, 2630, 2631, 2632, 2633, 2634, 2635, 2636, 2637, 2638, 2639, 2640, 2641, 2642, 2643, 2644, 2645, 2646, 2647, 2648, 2649, 2650, 2651, 2652, 2653, 2654, 2655, 2656, 2657, 2658, 2659, 2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2669, 2670, 2671, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679, 2680, 2681, 2682, 2683, 2684, 2685, 2686, 2687, 2688, 2689, 2690, 2691, 2692, 2693, 2694, 2695, 2696, 2697, 2698, 2699, 2700, 2701, 2702, 2703, 2704, 2705, 2706, 2707, 2708, 2709, 2710, 2711, 2712, 2713, 2714, 2715, 2716, 2717, 2718, 2719, 2720, 2721, 2722, 2723, 2724, 2725, 2726, 2727, 2728, 2729, 2730, 2731, 2732, 2733, 2734, 2735, 2736, 2737, 2738, 2739, 2740, 2741, 2742, 2743, 2744, 2745, 2746, 2747, 2748, 2749, 2750, 2751, 2752, 2753, 2754, 2755, 2756, 2757, 2758, 2759, 2760, 2761, 2762, 2763, 2764, 2765, 2766, 2767, 2768, 2769, 2770, 2771, 2772, 2773, 2774, 2775, 2776, 2777, 2778, 2779, 2780, 2781, 2782, 2783, 2784, 2785, 2786, 2787, 2788, 2789, 2790, 2791, 2792, 2793, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 2801, 2802, 2803, 2804, 2805, 2806, 2807, 2808, 2809, 2810, 2811, 2812, 2813, 2818, 2819, 2820, 2821, 2821, 2822, 2822, 2823, 2824, 2824, 2825, 2825, 2826, 2827, 2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835, 2836, 2837, 2838, 2839, 2840, 2841, 2842, 2843, 2844, 2845, 2846, 2847, 2848, 2849, 2850, 2851, 2852, 2853, 2854, 2855, 2856, 2857, 2858, 2859, 2860, 2861, 2862, 2863, 2864, 2865, 2866, 2867, 2868, 2869, 2870, 2871, 2872, 2873, 2874, 2875, 2876, 2877, 2878, 2879, 2880, 2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, 2892, 2893, 2894, 2895, 2896, 2897, 2898, 2899, 2900, 2901, 2902, 2903, 2904, 2905, 2906, 2907, 2908, 2909, 2910, 2911, 2912, 2913, 2914, 2915, 2916, 2917, 2918, 2919, 2920, 2921, 2922, 2923, 2924, 2925, 2926, 2927, 2928, 2929, 2930, 2931, 2932, 2933, 2934, 2935, 2936, 2937, 2938, 2939, 2940, 2941, 2942, 2943, 2944, 2945, 2947, 2948, 2949, 2950, 2951, 2952, 2953, 2954, 2955, 2957, 2958, 2959, 2960, 2961, 2962, 2963, 2964, 2966, 2967, 2968, 2969, 2970, 2971, 2972, 2973, 2974, 2975, 2976, 2977, 2978, 2979, 2980, 2981, 2982, 2983, 2985, 2986, 2987, 2988, 2989, 2990, 2991, 2992, 2993, 2994, 2995, 2996, 2997, 2998, 2999, 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3022, 3023, 3024, 3025, 3025, 3026, 3027, 3027, 3028, 3029, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049, 3050, 3051, 3052, 3053, 3054, 3055, 3056, 3057, 3058, 3059, 3060, 3061, 3062, 3063, 3064, 3065, 3066, 3067, 3068, 3069, 3070, 3071, 3072, 3073, 3074, 3075, 3076, 3077, 3078, 3079, 3080, 3081, 3082, 3083, 3084, 3085, 3086, 3087, 3088, 3089, 3090, 3091, 3092, 3093, 3094, 3095, 3096, 3097, 3098, 3099, 3100, 3101, 3102, 3103, 3104, 3105, 3106, 3107, 3108, 3109, 3110, 3111, 3112, 3113, 3114, 3115, 3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, 3128, 3129, 3130, 3131, 3132, 3133, 3134, 3135, 3136, 3137, 3138, 3139, 3140, 3141, 3142, 3143, 3144, 3145, 3146, 3147, 3148, 3149, 3150, 3151, 3152, 3153, 3154, 3155, 3156, 3157, 3158, 3159, 3161, 3162, 3163, 3164, 3165, 3166, 3167, 3168, 3169, 3170, 3171, 3172, 3173, 3174, 3175, 3176, 3177, 3178, 3179, 3180, 3181, 3182, 3183, 3184, 3185, 3186, 3187, 3188, 3189, 3190, 3191, 3192, 3193, 3194, 3195, 3196, 3197, 3198, 3199, 3200, 3201, 3202, 3203, 3204, 3205, 3206, 3207, 3208, 3209, 3210, 3211, 3212, 3213, 3214, 3215, 3216, 3217, 3218, 3219, 3220, 3221, 3222, 3223, 3224, 3225, 3226, 3227, 3228, 3229, 3230, 3231, 3232, 3233, 3234, 3235, 3236, 3237, 3238, 3239, 3240, 3241, 3242, 3243, 3244, 3245, 3246, 3247, 3248, 3249, 3250, 3251, 3252, 3253, 3254, 3255, 3256, 3257, 3258, 3259, 3260, 3261, 3262, 3263, 3264, 3265, 3266, 3267, 3268, 3269, 3270, 3271, 3272, 3273, 3274, 3275, 3276, 3277, 3278, 3279, 3280, 3281, 3282, 3283, 3284, 3285, 3286, 3287, 3288, 3289, 3290, 3291, 3292, 3293, 3294, 3295, 3296, 3297, 3298, 3299, 3300, 3301, 3302, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3318, 3319, 3320, 3321, 3322, 3323, 3324, 3325, 3325, 3326, 3327, 3329, 3330, 3331, 3332, 3333, 3334, 3335, 3336, 3337, 3338, 3339, 3340, 3341, 3342, 3343, 3344, 3345, 3346, 3347, 3348, 3758, 3759, 3760, 3761, 3762, 3763, 3764, 3765, 4021, 4022, 4023, 4024, 4025, 4026, 4027, 4028, 4029, 4030, 4031, 4032, 4033, 4034, 4035, 4036, 4037, 4038, 4173, 4174, 4175, 4176, 4177, 4178, 4179, 4180, 4181, 4182, 4183, 4184, 4185, 4186, 4187, 4188, 4189, 4190, 4191, 4192, 4193, 4194, 4195, 4360, 4361, 4362, 4363, 4364, 4365, 4366, 4367, 4368, 4369, 4370, 4371, 4372, 4373, 4483, 4484, 4485, 4486, 4487, 4488, 4489, 4490, 4491, 4492, 4493, 4494]
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42899264"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904448"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904447"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904446"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904445"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904444"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904442"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904441"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904440"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904439"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904438"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904437"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904436"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904435"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904434"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904432"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904431"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904430"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904428"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904426"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904425"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904424"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904423"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904422"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904420"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904418"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904416"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904414"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904413"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904412"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904411"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904576"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904410"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904406"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904405"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904404"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904403"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904574"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904402"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904401"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904398"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904396"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904397"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904395"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904394"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904392"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904391"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904390"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904388"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904389"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904386"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904385"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904384"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904383"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904382"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904381"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904380"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904379"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904377"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904376"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904375"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904371"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904372"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904373"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904374"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904370"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904366"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904367"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904367"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904367"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904368"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904368"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904368"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904361"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904363"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904364"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904365"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904360"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904359"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904358"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904358"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904354"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904355"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904356"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904357"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904350"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904351"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904353"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904352"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904345"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904345"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904346"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904347"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904348"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904349"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904349"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904340"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904340"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42900200"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904341"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904342"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904343"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904344"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904335"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904334"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904336"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904338"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904333"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904332"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904331"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904330"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904330"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904321"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904322"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904323"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904329"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904324"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904325"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904327"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904319"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904320"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904318"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904317"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904315"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904311"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904312"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904314"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904309"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904310"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904308"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904306"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904299"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904300"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904301"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904302"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904305"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904303"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904298"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904297"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904294"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904295"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904296"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904292"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904291"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904291"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904285"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904286"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904287"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904288"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904289"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904290"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904279"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904280"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904278"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904281"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904283"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904284"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904277"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904277"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904276"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904275"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904274"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904273"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904272"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904271"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904270"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904269"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904268"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904262"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904263"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904264"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904265"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904261"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904266"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904267"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904257"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904258"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904259"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904260"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904250"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904251"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904252"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904253"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904254"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904256"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904247"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904248"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904245"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904240"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904240"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904241"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904242"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904244"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904238"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904238"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904239"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904237"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904236"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904230"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904231"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904232"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42899237"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42899237"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904233"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904234"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42900159"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904228"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904227"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904226"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904225"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904225"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904229"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904224"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904224"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904223"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904222"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904222"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904215"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904215"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904215"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904216"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904217"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904221"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904220"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904218"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904214"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904206"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904207"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904208"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904209"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904213"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904210"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904211"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904212"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904201"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904198"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904555"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904203"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904205"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904204"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904204"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904197"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904194"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904195"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904196"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904186"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904187"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904189"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904190"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904191"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904192"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904180"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
+{"results":[{"field":"adID","value":"42904181"},{"field":"externalAdID","value":"Já existe um anúncio com esse ID Externo."}]}
+CustoJusto.pt API Response:
